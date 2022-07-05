@@ -31,9 +31,9 @@ class Worker(QThread):
 
             state = None
             if price > last_ma5:
-                state = "상승장"
+                state = "upwards"
             else:
-                state = "하락장"
+                state = "downwards"
 
             return (price, last_ma5, state)
         except:
