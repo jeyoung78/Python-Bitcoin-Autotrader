@@ -54,5 +54,5 @@ while True:
         if (current_price > target_price) and (current_price > ma5):
             buy_crypto_currency("BTC")        
     except:
-        print("에러 발생")        
+        print("error")        
     time.sleep(1)
