@@ -5,6 +5,9 @@ Followed through JoCoding Youtube lecture series and a book "파이썬을 이용
 - https://github.com/sharebook-kr/book-cryptocurrency
 
 test.py: Checks remaining balance
+
 bestK.py : finding the best k value
+
 bitcoinAutoTrade.py : Voltaile Breakout Strategy
+
 bitcoinAutoTradeWithMA.py : Voltaile Breakout Strategy with 15 days of stats
